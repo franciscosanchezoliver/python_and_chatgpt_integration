@@ -11,3 +11,12 @@ Activate the environment just created
 
 Install dependencies
 > pip install -r requirements.txt
+
+## API key
+To interact with the API of openAI. You will need an API key, check out this docs: https://platform.openai.com/docs/api-reference/authentication
+
+## Execute 
+1. Go to your project directory
+2. > python main.py
+
+
